@@ -101,5 +101,5 @@ So in the picture above, you can see the change in data retrieval requests and d
 </p>
 
 #
-
-## <i>If need help, feel free to contact us! MatthewBrandon21 / rellpa.</i>
+-- My contribution is to the backend and authentication part
+## <i>If need help, feel free to contact us! MatthewBrandon21 / rellpa / Ngibulz.</i>
